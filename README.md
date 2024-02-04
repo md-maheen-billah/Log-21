@@ -1,5 +1,5 @@
 # Log 21 (Duration: 1/6 Months)
-Today's lesson focused funtion, function parameters, how function works, argument vs parameters and function return.
+Today's lesson focused different javascript simple coding problems, removal of duplicate items from an array, math, abs, round, ceil, floor, random number generation, JS date, JS time, Swap variable and Destructuring.
 
 ---
 
